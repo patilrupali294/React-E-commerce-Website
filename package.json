@@ -27,9 +27,9 @@
     ]
   },
    "engines": {
-    "node": ">=12",
-    "npm":">=7",
-    "engineStrict" : "true"
+    "node": "14.16",
+    "npm":"7.14"
+    
 },
   "browserslist": {
     "production": [
